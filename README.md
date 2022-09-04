@@ -1,5 +1,9 @@
-# [AlexNB](https://github.com/0xAlexNB)
+ # Who it is me?
+Creator of simple mods since 2020, here you will find the codes of the mods that I have uploaded to my youtube channel so that someone can serve as a guide or see how it was make.
 
+If you plan to edit and/or upload any mod published here, leave the author's credits, so we avoid problems ;)
+
+# Social
 - Subscribe to my youtube channel:
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnTxwFZ_j763lcooLW-IF0g?label=AlexNB&style=social&logo=youtube)](https://youtube.com/c/AlexNB)
