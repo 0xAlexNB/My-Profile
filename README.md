@@ -1,3 +1,3 @@
 # AlexNB (https://github.com/0xAlexNB)
-[![qqqqq](https://img.shields.io/youtube/channel/subscribers/UCnTxwFZ_j763lcooLW-IF0g?label=Subscribe&?style=Subs&logo=youtube)](https://youtube.com/c/AlexNB)
-[![aaaaa](https://img.shields.io/discord/911487285990674473?style=social&logo=discord)](https://discord.gg/d5dZSfgBZr)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnTxwFZ_j763lcooLW-IF0g?label=Subscribe&?style=&logo=youtube&?logoWidth=40)](https://youtube.com/c/AlexNB)
+[![Discord](https://img.shields.io/discord/911487285990674473?style=&logo=discord&?logoWidth=40)](https://discord.gg/d5dZSfgBZr)
